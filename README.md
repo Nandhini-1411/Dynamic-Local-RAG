@@ -1,10 +1,10 @@
-# Simple RAG Application 📚
+# Simple RAG Application 
 
 A simple **Retrieval-Augmented Generation (RAG)** application built using Python and LangChain.
 
 The application can read **PDF, DOCX, and TXT files**, retrieve relevant information from them, and generate answers using a locally running LLM.
 
-## 🔄 RAG Pipeline
+##  RAG Pipeline
 
 ```text
 Documents
